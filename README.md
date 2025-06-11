@@ -36,8 +36,7 @@ My project utilizes existing IoT devices’ to create a drive on the local netwo
 
 Block Diagram Flow: 
 
-    ![alt text](blockdiagram.png)
-    
+    ![alt text](block_diagram2.drawio.png)
     1. User requests access to data stored on the NAS, using the Linux directory GUI.
     2. The Linux OS manages the user’s request and interacts with the Virtual File System (VFS).
     3. The VFS passes the request to the appropriate File System.
